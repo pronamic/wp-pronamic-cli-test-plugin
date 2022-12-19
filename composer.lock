@@ -190,12 +190,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/pronamic/wp-deployer.git",
-                "reference": "fc63919ba2e4ac7bf9381d96096857132281ef8f"
+                "reference": "061fe215d85f1ecb94f96ffb35b4ede92bca5ffe"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/pronamic/wp-deployer/zipball/fc63919ba2e4ac7bf9381d96096857132281ef8f",
-                "reference": "fc63919ba2e4ac7bf9381d96096857132281ef8f",
+                "url": "https://api.github.com/repos/pronamic/wp-deployer/zipball/061fe215d85f1ecb94f96ffb35b4ede92bca5ffe",
+                "reference": "061fe215d85f1ecb94f96ffb35b4ede92bca5ffe",
                 "shasum": ""
             },
             "require": {
@@ -229,7 +229,7 @@
                 "issues": "https://github.com/pronamic/wp-deployer/issues",
                 "source": "https://github.com/pronamic/wp-deployer/tree/develop"
             },
-            "time": "2022-12-19T08:37:15+00:00"
+            "time": "2022-12-19T10:32:42+00:00"
         },
         {
             "name": "psr/container",
