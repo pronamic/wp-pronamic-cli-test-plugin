@@ -11,7 +11,7 @@
  * Plugin Name:       Pronamic Deployer Test Plugin
  * Plugin URI:        https://github.com/pronamic/wp-deployer-test-plugin
  * Description:       Pronamic Deployer test plugin.
- * Version:           1.0.0
+ * Version:           1.0.1
  * Requires at least: 5.2
  * Requires PHP:      7.2
  * Author:            Pronamic
