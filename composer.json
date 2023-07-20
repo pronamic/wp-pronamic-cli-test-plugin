@@ -3,6 +3,6 @@
         "php": ">=8.0"
     },
     "require-dev": {
-        "pronamic/wp-deployer": "dev-develop"
+        "pronamic/pronamic-cli": "dev-main"
     }
 }
